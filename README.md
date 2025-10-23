@@ -23,3 +23,15 @@ The dataset used in this project was a CSV file containing the following columns
 * Description
 
 The dataset was provided in the YouTube tutorial and used only for learning purposes.
+
+## 📈 Dashboard Visuals
+
+Here’s what I added to the dashboard:
+
+* Cards showing Total Titles, Ratings, Genres, Directors, Start & End Year
+* Bar Chart for Ratings by Total Shows
+* Bar Chart for Genres by Total Shows
+* Map showing total titles by country
+* Donut Chart comparing Movies and TV Shows
+* Area Chart showing total shows by release year
+All visuals follow Amazon Prime Video’s dark blue theme and logo.
