@@ -34,4 +34,5 @@ Here’s what I added to the dashboard:
 * Map showing total titles by country
 * Donut Chart comparing Movies and TV Shows
 * Area Chart showing total shows by release year
+
 All visuals follow Amazon Prime Video’s dark blue theme and logo.
