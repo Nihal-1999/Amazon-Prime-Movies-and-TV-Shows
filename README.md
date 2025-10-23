@@ -36,3 +36,20 @@ Here’s what I added to the dashboard:
 * Area Chart showing total shows by release year
 
 All visuals follow Amazon Prime Video’s dark blue theme and logo.
+
+## 💡 Insights from the Dashboard
+
+* Amazon Prime Video has more movies than TV shows
+* Drama and Comedy are the top genres
+* The US and India have the most titles
+* There’s been a big increase in shows after 2015
+
+## 🛠 Tools Used
+
+* Microsoft Power BI
+* CSV Dataset (imported into Power BI)
+* Basic formatting, data cleaning, and visualization techniques
+
+## 📷 Dashboard Preview
+
+<img width="1170" height="687" alt="Powerbi_project-1" src="https://github.com/user-attachments/assets/3cc3f3e8-a3e5-4cd2-aba8-478272c8838f" />
